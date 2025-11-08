@@ -1,16 +1,31 @@
-# Data-Analytics-Portfolio
-My projects in Excel, Power BI, Tableau, SQL, and Python.
+# 📊 Data Analytics Portfolio
 
-# 👋 Hi, I'm Omkar — Data Analyst
+Hii I'm Omkar Ladwa,
 
-This repository showcases my data analytics projects across:
-- Excel (Dashboards & KPI reports)
-- Power BI (Interactive visualizations)
-- Tableau (Storytelling dashboards)
-- SQL (Data extraction & analysis)
-- Python (Data cleaning & EDA)
+Welcome to my **Data Analytics Portfolio!**  
+This repository showcases my data analysis and visualization projects created using **Excel, Power BI, Tableau, MySQL**.
 
-##Featured Projects
-1. **E-commerce Sales Dashboard** – Excel, Power BI
-2. **Customer Review Analysis** – SQL, Python
-3. **Stock Market Trend Analysis** – Tableau
+---
+
+## 🚀 View My Work
+📂 [Click here to view all my projects]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1r2c_e1TyOFKZ9UnLcJEMPSybYSyo51BO?usp=drive_link))
+
+All my dashboards, reports, and project files are stored in the Google Drive link above.
+
+---
+
+## 🧰 Tools & Technologies
+- **Excel** – Data cleaning, dashboard creation  
+- **Power BI** – Interactive visualizations and KPIs  
+- **Tableau** – Advanced analytics and insights  
+- **MySQL** – Database querying and data extraction  
+
+---
+
+## 📫 Contact
+📧 Email: *omkarladwa2001@gmail.com*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/omkarladwa2001/)
+
+---
+
+⭐ *Thanks for visiting my portfolio!*
