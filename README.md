@@ -8,7 +8,7 @@ This repository showcases my data analysis and visualization projects created us
 ---
 
 ## 🚀 View My Work
-📂 [Click here to view all my projects]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1r2c_e1TyOFKZ9UnLcJEMPSybYSyo51BO?usp=drive_link))
+📂 [Click here to view all my projects](https://drive.google.com/drive/folders/1r2c_e1TyOFKZ9UnLcJEMPSybYSyo51BO?usp=drive_link)
 
 All my dashboards, reports, and project files are stored in the Google Drive link above.
 
