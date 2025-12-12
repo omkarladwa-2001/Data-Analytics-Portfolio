@@ -18,11 +18,11 @@ All my dashboards, reports, and project files are stored in the Google Drive lin
 - **Excel** – Data cleaning, dashboard creation  
 - **Power BI** – Interactive visualizations and KPIs  
 - **Tableau** – Advanced analytics and insights  
-- **MySQL** – Database querying and data extraction  
+- **MySQL** – Database querying and data extraction 
 
 ---
 
-## 📫 Contact
+## 📫 Contact-
 📧 Email: *omkarladwa2001@gmail.com*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/omkarladwa2001/)
 
